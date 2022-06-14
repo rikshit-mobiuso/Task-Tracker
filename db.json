@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "date": "20-06-2022",
+      "time": "01:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "date": "2022-06-23",
+      "time": "01:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "date": "2022-06-23",
+      "time": "01:00",
+      "reminder": false
+    },
+    {
+      "text": "Movie",
+      "date": "2022-06-23",
+      "time": "01:00",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Movie",
+      "date": "2022-06-23",
+      "time": "01:00",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
